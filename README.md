@@ -53,7 +53,7 @@ A landing page pode ser adaptada para diferentes tipos de negocios, como:
 
 Caso tenha interesse em adquirir ou personalizar este projeto para a sua marca, entre em contato com a Webluma:
 
-Website: https://webluma.tech
+Website: https://www.webluma.dev/
 
 ## Direitos autorais
 
@@ -134,7 +134,7 @@ Projeto criado e desenvolvido por Webluma.
 
 A Webluma cria landing pages, websites e experiencias digitais modernas para marcas, profissionais e negocios que desejam uma presenca online mais bonita, estrategica e profissional.
 
-Website: https://webluma.tech
+Website: https://www.webluma.dev/
 
 ## Status do projeto
 

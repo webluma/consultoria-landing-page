@@ -339,8 +339,8 @@ export default function Home() {
             />
 
             <div className="mt-8 flex flex-col gap-4 sm:flex-row">
-              <a className="button-primary" href="mailto:hello@webluma.tech">
-                hello@webluma.tech
+              <a className="button-primary" href="mailto:webluma.dev@gmail.com">
+                webluma.dev@gmail.com
               </a>
               <a className="button-secondary" href="tel:+554100000000">
                 +55 (41) 0000-0000
@@ -363,9 +363,9 @@ export default function Home() {
               <p className="footer-title">Contato</p>
               <a
                 className="footer-link focus-ring"
-                href="mailto:hello@webluma.tech"
+                href="mailto:webluma.dev@gmail.com"
               >
-                hello@webluma.tech
+                webluma.dev@gmail.com
               </a>
               <a className="footer-link focus-ring" href="tel:+554100000000">
                 +55 (41) 0000-0000
